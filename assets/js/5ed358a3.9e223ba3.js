@@ -1,0 +1,1 @@
+(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[317],{1374:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/next-ts-mui/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/next-ts-mui/blog/tags/facebook"}')}}]);
